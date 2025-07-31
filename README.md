@@ -135,7 +135,7 @@ This solution bridges operational gaps in law enforcement by:
 
 I Have completed my project in some phases:
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/60ad8e1b-f8f2-4216-8f77-e796b8aec7c3" />
+<img width="940" height="520" alt="image" src="https://github.com/user-attachments/assets/60ad8e1b-f8f2-4216-8f77-e796b8aec7c3" />
 <figcaption>This is first phase of my project, here only on majority basis of level it just showing the historical crime at certain percentage of level on location for Delhi only </figcaption>
 
 <img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1ead9246-fd1e-43e0-a888-8eb8c124f5de" />
