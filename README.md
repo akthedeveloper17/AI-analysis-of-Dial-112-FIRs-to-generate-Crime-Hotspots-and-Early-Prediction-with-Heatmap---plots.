@@ -135,18 +135,18 @@ This solution bridges operational gaps in law enforcement by:
 
 I Have completed my project in some phases:
 
-<img width="940" height="520" alt="image" src="https://github.com/user-attachments/assets/60ad8e1b-f8f2-4216-8f77-e796b8aec7c3" />
+<img width="940" height="497" alt="1" src="https://github.com/user-attachments/assets/1139ae17-5663-4ec2-99d0-00b970bcb886" />
 <figcaption>This is first phase of my project, here only on majority basis of level it just showing the historical crime at certain percentage of level on location for Delhi only </figcaption>
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/1ead9246-fd1e-43e0-a888-8eb8c124f5de" />
+<img width="940" height="498" alt="2" src="https://github.com/user-attachments/assets/1a3043f6-aa6f-4859-b2f7-b9340d9889d0" />
 <figcaption>This is second phase of my project, here only on majority basis of level it just showing the historical crime at certain percentage of level on location for whole India </figcaption>
 
-<img width="940" height="529" alt="image" src="https://github.com/user-attachments/assets/dbbc758a-104c-4b0c-ad0d-6ef470e87cc0" />
+<img width="940" height="498" alt="3" src="https://github.com/user-attachments/assets/f5946390-ff67-4081-9275-000cd35d3396" />
 <figcaption>This is third phase of my project, here only on majority basis of level it just showing the historical crime and also predicting the future crime at certain percentage of level on location for whole India </figcaption>
 
-<img width="942" height="502" alt="image" src="https://github.com/user-attachments/assets/9c2a7aa2-74fa-4251-baff-994531494a6c" />
+<img width="942" height="502" alt="4" src="https://github.com/user-attachments/assets/fb03becd-49b9-4bb9-a643-5fb78643bbc7" />
 <figcaption>This is Fourth phase of my project, here  it is showing the red spots for historical crime and also predicting the future crime by flags at every respective location on location for whole India. If the flag is above 80% it shows through Green Flag, if above than 65% and in between 80% it denotes through Orange Flag otherwise below than this is shown from Yellow Flag. </figcaption>
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/46a8a817-34a1-41a5-af05-7e179d09d472" />
+<img width="1366" height="725" alt="5" src="https://github.com/user-attachments/assets/b32eaff1-09a3-40b4-a8b3-7edce04f68df" />
 <figcaption>This is Fifth and Final phase of my project, here  it is showing the grey spots for historical crime and also predicting the future crime by red Spots at every respective location on location for whole India in 3d Full visualisation, we can also do zooming over the globe to see the detailed location over the map to know the precise location of Hotspot.  </figcaption>
 
